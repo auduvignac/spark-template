@@ -1,0 +1,14 @@
+# === IDE & outils de dev ===
+.idea/
+.metals/
+.vscode/
+
+# === Fichiers temporaires ou logs ===
+*.bak
+*.log
+*.swp
+*.tmp
+
+# === SBT / Scala build ===
+target/
+project/
